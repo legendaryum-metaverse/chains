@@ -1,0 +1,21 @@
+{
+    "name": "Legendaryum - Matrix testnet",
+    "chain": "LMTN",
+    "icon": "legendaryum",
+    "rpc": [
+      "http://matrix-dev.legendaryum.com/"
+    ],
+    "faucets": ["https://hyperspace.yoga/#faucet"],
+    "nativeCurrency": {
+      "name": "testnet legendaryum",
+      "symbol": "LMTN",
+      "decimals": 18
+    },
+    "infoURL": "https://www.legendaryum.com",
+    "shortName": "legendaryum-matrix",
+    "chainId": 3171,
+    "networkId": 3171,
+    "slip44": 1,
+    "explorers": [
+    ]
+  }
